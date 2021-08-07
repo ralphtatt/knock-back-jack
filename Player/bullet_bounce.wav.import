@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/bullet_bounce.wav-5d0689ef51187ee4011bd8befa925e17.sample"
+
+[deps]
+
+source_file="res://Player/bullet_bounce.wav"
+dest_files=[ "res://.import/bullet_bounce.wav-5d0689ef51187ee4011bd8befa925e17.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
